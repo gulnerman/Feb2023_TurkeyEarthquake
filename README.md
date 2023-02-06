@@ -11,3 +11,5 @@ This data is retrieved via Twitter API for my personal academic use. I used my A
 
 I will be sharing links to the updated files below:
 - [v1](rescueRequests_v1.csv)
+- [v2](rescueRequests_v2.csv) #this includes v1.
+
