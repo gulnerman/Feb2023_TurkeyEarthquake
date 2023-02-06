@@ -10,6 +10,6 @@ This data is retrieved via Twitter API for my personal academic use. I used my A
 - tweet count (repetitive tweet count).
 
 I will be sharing links to the updated files below:
-- [v1](rescueRequests_v1.csv)
-- [v2](rescueRequests_v2.csv) #this includes v1.
+- [v1](rescueRequests_v1.csv) #this is derived from 110th tweets.
+- [v2](rescueRequests_v2.csv) #this includes v1. #this is derived from 210th tweets.
 
