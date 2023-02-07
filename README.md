@@ -10,9 +10,11 @@ This data is retrieved via Twitter API for my personal academic use. I used my A
 - tweet count (repetitive tweet count).
 
 I will be sharing links to the updated files below:
-- [v1](rescueRequests_v1.csv) #this is derived from 110th tweets.
-- [v2](rescueRequests_v2.csv) #this includes v1. #this is derived from 210th tweets.
-- [v3](rescueRequests_v3.csv) #this includes v1 and v2. #this is derived from 310th tweets.
-- [v4](rescueRequests_v4.csv) #this includes v1, v2 and v3. #this is derived from 410th tweets.
-- [v5](rescueRequests_v5.csv) #this includes v1, v2, v3 and v4. #this is derived from 510th tweets.
+- [6thFebruary_v1](rescueRequests_v1.csv) #this is derived from 110th tweets.
+- [6thFebruary_v2](rescueRequests_v2.csv) #this includes v1. #this is derived from 210th tweets.
+- [6thFebruary_v3](rescueRequests_v3.csv) #this includes v1 and v2. #this is derived from 310th tweets.
+- [6thFebruary_v4](rescueRequests_v4.csv) #this includes v1, v2 and v3. #this is derived from 410th tweets.
+- [6thFebruary_v5](rescueRequests_v5.csv) #this includes v1, v2, v3 and v4. #this is derived from 510th tweets.
 
+
+- [7thFeb_v1](rescueRequests_7thFebruary_v1.csv) #this is derived from 100th tweets pulled in 7th of February 2023.
