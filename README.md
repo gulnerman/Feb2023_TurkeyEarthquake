@@ -19,5 +19,6 @@ I will be sharing links to the updated files below:
 - [7thFebruary_v1](rescueRequests_7thFebruary_v1.csv) #this is derived from 100th tweets pulled in the 7th of February 2023. 
 
 
+8thFeb 2023 ##there was a slowing down issue on Twitter therefore the pulling attempts failed several times for larger amounts.
 - [8thFebruary_v1](rescueRequests_8thFebruary_v1.csv) #this is derived from 10th tweets pulled in 8th of February 2023. 
-#there was a slowing down issue on Twitter therefore the pulling attempts failed several times for larger amounts.
+- [8thFebruary_v2](rescueRequests_8thFebruary_v2.csv) #this includes v1. #this is derived from 20th tweets pulled in 8th of February 2023. 
