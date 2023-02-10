@@ -1,3 +1,7 @@
+#Please be aware of the LICENSE.md document.
+#This data can be used for any humanitarian and academic efforts. Please be considerate while using, give reference to this repo, and contact us for further information. 
+
+
 # Feb2023_TurkeyEarthquake
 Manipulated rescue requests data from Twitter for 06 Feb 2023 Earthquake in Turkey.
 
