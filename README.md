@@ -1,5 +1,5 @@
-#Please be aware of the LICENSE.md document.
-#This data can be used for any humanitarian and academic efforts. Please be considerate while using, give reference to this repo, and contact us for further information. 
+### Please be aware of the [LICENSE.md](LICENSE.md) document.
+This data can be used for any humanitarian and academic efforts. Please be considerate while using, give reference to this repo, and contact us for further information. 
 
 
 # Feb2023_TurkeyEarthquake
