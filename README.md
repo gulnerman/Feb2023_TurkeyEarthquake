@@ -45,4 +45,5 @@ the 10th of Feb
 - [10thFebruary_v4](rescueRequests_10thFebruary_v4.csv) #this includes v1, v2 and v3. #this is derived from 120th tweets pulled in 10th of February 2023. 
 - [10thFebruary_v5](rescueRequests_10thFebruary_v5.csv) #this includes v1, v2, v3 and v4. #this is derived from 160th tweets pulled in 10th of February 2023. 
 - [10thFebruary_v6](rescueRequests_10thFebruary_v6.csv) #this includes v1, v2, v3, v4 and v5. #this is derived from 200th tweets pulled in 10th of February 2023.
-- [10thFebruary_v7](rescueRequests_10thFebruary_v7.csv) #this includes v1, v2, v3, v4, v5, v6. #this is derived from 250th tweets pulled in 10th of February 2023.
+- [10thFebruary_v7](rescueRequests_10thFebruary_v7.csv) #this includes v1, v2, v3, v4, v5, and v6. #this is derived from 250th tweets pulled in 10th of February 2023.
+- [10thFebruary_v8](rescueRequests_10thFebruary_v8.csv) #this includes v1, v2, v3, v4, v5, v6 and v7. #this is derived from 300th tweets pulled in 10th of February 2023.
